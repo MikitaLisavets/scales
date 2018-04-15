@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Scales</title>
+  <style>
+    body {
+      width: 100%;
+      font-size: 12px;
+    }
+  </style>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div id='shell'>
+    <div id='inner-frame'>
+      <input checked='true' class='control hidden' id='maj' name='tonic' type='radio' value='maj'>
+      <input class='control hidden' id='min' name='tonic' type='radio' value='min'>
+      <input checked='true' class='control hidden' name='scale' type='radio' value='none'>
+      <input class='control hidden' id='A' name='scale' type='radio' value='A'>
+      <input class='control hidden' id='As' name='scale' type='radio' value='As'>
+      <input class='control hidden' id='B' name='scale' type='radio' value='B'>
+      <input class='control hidden' id='C' name='scale' type='radio' value='C'>
+      <input class='control hidden' id='Cs' name='scale' type='radio' value='Cs'>
+      <input class='control hidden' id='D' name='scale' type='radio' value='D'>
+      <input class='control hidden' id='Ds' name='scale' type='radio' value='Ds'>
+      <input class='control hidden' id='E' name='scale' type='radio' value='E'>
+      <input class='control hidden' id='F' name='scale' type='radio' value='F'>
+      <input class='control hidden' id='Fs' name='scale' type='radio' value='Fs'>
+      <input class='control hidden' id='G' name='scale' type='radio' value='G'>
+      <input class='control hidden' id='Gs' name='scale' type='radio' value='Gs'>
+      <div class='panel col-4 row-2' id='speaker'>
+        <span>•••••••</span>
+        <span>•••••••••••</span>
+        <span>•••••••••••</span>
+        <span>•••••••••••••</span>
+        <span>•••••••••••••</span>
+        <span>•••••••••••••</span>
+        <span>•••••••••••••</span>
+        <span>•••••••••••••</span>
+        <span>•••••••••••••</span>
+        <span>•••••••••••••</span>
+        <span>•••••••••••</span>
+        <span>•••••••••••</span>
+        <span>•••••••</span>
+      </div>
+      <div class='panel-group col-4 row-2'>
+        <div class='panel col-4 row-1 volume' id='volume'></div>
+        <div class='panel col-2 row-1 button' id='help'></div>
+        <div class='panel col-2 row-1 button' id='tempo'></div>
+      </div>
+      <div class='panel col-8 row-2' id='screen'></div>
+      <div class='panel col-4 row-2 knob knob--blue' id='blue-encoder'>
+        <div class='knob__indentation'></div>
+      </div>
+      <div class='panel col-4 row-2 knob knob--green' id='green-encoder'>
+        <div class='knob__indentation'></div>
+      </div>
+      <div class='panel col-4 row-2 knob knob--white' id='white-encoder'>
+        <div class='knob__indentation'></div>
+      </div>
+      <div class='panel col-4 row-2 knob knob--orange' id='orange-encoder'>
+        <div class='knob__indentation'></div>
+      </div>
+      <div class='panel-group col-2 row-2'>
+        <div class='panel col-2 row-1 button' id='input'></div>
+        <div class='panel col-2 row-1 button' id='album'></div>
+      </div>
+      <div class='panel col-2 row-1 button'></div>
+      <div class='panel col-2 row-1 button'></div>
+      <div class='panel col-2 row-1 button'></div>
+      <label class='panel col-2 row-1 button tonic tonic-maj' for='maj'>
+        <span class='button-title'>maj</span>
+      </label>
+      <label class='panel col-2 row-1 button tonic tonic-min' for='min'>
+        <span class='button-title'>min</span>
+      </label>
+      <div class='panel col-2 row-1 button'></div>
+      <div class='panel col-2 row-1 button'></div>
+      <div class='panel col-2 row-1 button'></div>
+      <div class='panel col-2 row-1 button'></div>
+      <div class='panel col-2 row-1 button'></div>
+      <div class='panel col-2 row-1 button'></div>
+      <div class='panel col-2 row-1 button'></div>
+      <div class='panel col-2 row-1 button'></div>
+      <div class='panel col-2 row-1 button'></div>
+      <div class='panel col-2 row-1 button'></div>
+      <div class='panel col-2 row-1 button'></div>
+      <div class='panel col-2 row-1 button'></div>
+      <div class='panel col-2 row-1 button'></div>
+      <div class='panel col-2 row-1 button'></div>
+      <div class='panel col-2 row-1 button'></div>
+      <label class='panel col-3 row-1 button button--right button--black note note-Fs note-Fs2' for='Fs'></label>
+      <label class='panel col-2 row-1 button button--black note note-Gs note-Gs2' for='Gs'></label>
+      <label class='panel col-3 row-1 button button--left button--black note note-As note-As2' for='As'></label>
+      <label class='panel col-3 row-1 button button--right button--black note note-Cs note-Cs3' for='Cs'></label>
+      <label class='panel col-3 row-1 button button--left button--black note note-Ds note-Ds3' for='Ds'></label>
+      <label class='panel col-3 row-1 button button--right button--black note note-Fs note-Fs3' for='Fs'></label>
+      <label class='panel col-2 row-1 button button--black note note-Gs note-Gs3' for='Gs'></label>
+      <label class='panel col-3 row-1 button button--left button--black note note-As note-As3' for='As'></label>
+      <label class='panel col-3 row-1 button button--right button--black note note-Cs note-Cs4' for='Cs'></label>
+      <label class='panel col-3 row-1 button button--left button--black note note-Ds note-Ds4' for='Ds'></label>
+      <div class='panel-group col-2 row-2'>
+        <div class='panel col-2 row-1 button'></div>
+        <div class='panel col-2 row-1 button'></div>
+      </div>
+      <div class='panel-group col-2 row-2'>
+        <div class='panel col-2 row-1 button'></div>
+        <div class='panel col-2 row-1 button'></div>
+      </div>
+      <div class='panel-group col-2 row-2'>
+        <div class='panel col-2 row-1 button'></div>
+        <div class='panel col-2 row-1 button'></div>
+      </div>
+      <label class='panel col-2 row-2 button button--tall note note-F note-F2' for='F'></label>
+      <label class='panel col-2 row-2 button button--tall note note-G note-G2' for='G'></label>
+      <label class='panel col-2 row-2 button button--tall note note-A note-A2' for='A'></label>
+      <label class='panel col-2 row-2 button button--tall note note-B note-B2' for='B'></label>
+      <label class='panel col-2 row-2 button button--tall note note-C note-C3' for='C'></label>
+      <label class='panel col-2 row-2 button button--tall note note-D note-D3' for='D'></label>
+      <label class='panel col-2 row-2 button button--tall note note-E note-E3' for='E'></label>
+      <label class='panel col-2 row-2 button button--tall note note-F note-F3' for='F'></label>
+      <label class='panel col-2 row-2 button button--tall note note-G note-G3' for='G'></label>
+      <label class='panel col-2 row-2 button button--tall note note-A note-A3' for='A'></label>
+      <label class='panel col-2 row-2 button button--tall note note-B note-B3' for='B'></label>
+      <label class='panel col-2 row-2 button button--tall note note-C note-C4' for='C'></label>
+      <label class='panel col-2 row-2 button button--tall note note-D note-D4' for='D'></label>
+      <label class='panel col-2 row-2 button button--tall note note-E note-E4' for='E'></label>
+    </div>
+    <div id='mic'>
+      <span>••</span>
+      <span>••</span>
+    </div>
+    <div id='eq'>
+      <span>•</span>
+      <span>•</span>
+      <span>•</span>
+      <span>•</span>
+      <span>•</span>
+    </div>
+  </div>
+  
+</body>
+</html>

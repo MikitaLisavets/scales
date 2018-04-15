@@ -1,0 +1,2965 @@
+.col-1 {
+  width: 2.9411764706%;
+}
+.col-1 .col-1 {
+  width: 100%;
+}
+
+.col-2 {
+  width: 5.8823529412%;
+}
+.col-2 .col-1 {
+  width: 50%;
+}
+.col-2 .col-2 {
+  width: 100%;
+}
+
+.col-3 {
+  width: 8.8235294118%;
+}
+.col-3 .col-1 {
+  width: 33.3333333333%;
+}
+.col-3 .col-2 {
+  width: 66.6666666667%;
+}
+.col-3 .col-3 {
+  width: 100%;
+}
+
+.col-4 {
+  width: 11.7647058824%;
+}
+.col-4 .col-1 {
+  width: 25%;
+}
+.col-4 .col-2 {
+  width: 50%;
+}
+.col-4 .col-3 {
+  width: 75%;
+}
+.col-4 .col-4 {
+  width: 100%;
+}
+
+.col-5 {
+  width: 14.7058823529%;
+}
+.col-5 .col-1 {
+  width: 20%;
+}
+.col-5 .col-2 {
+  width: 40%;
+}
+.col-5 .col-3 {
+  width: 60%;
+}
+.col-5 .col-4 {
+  width: 80%;
+}
+.col-5 .col-5 {
+  width: 100%;
+}
+
+.col-6 {
+  width: 17.6470588235%;
+}
+.col-6 .col-1 {
+  width: 16.6666666667%;
+}
+.col-6 .col-2 {
+  width: 33.3333333333%;
+}
+.col-6 .col-3 {
+  width: 50%;
+}
+.col-6 .col-4 {
+  width: 66.6666666667%;
+}
+.col-6 .col-5 {
+  width: 83.3333333333%;
+}
+.col-6 .col-6 {
+  width: 100%;
+}
+
+.col-7 {
+  width: 20.5882352941%;
+}
+.col-7 .col-1 {
+  width: 14.2857142857%;
+}
+.col-7 .col-2 {
+  width: 28.5714285714%;
+}
+.col-7 .col-3 {
+  width: 42.8571428571%;
+}
+.col-7 .col-4 {
+  width: 57.1428571429%;
+}
+.col-7 .col-5 {
+  width: 71.4285714286%;
+}
+.col-7 .col-6 {
+  width: 85.7142857143%;
+}
+.col-7 .col-7 {
+  width: 100%;
+}
+
+.col-8 {
+  width: 23.5294117647%;
+}
+.col-8 .col-1 {
+  width: 12.5%;
+}
+.col-8 .col-2 {
+  width: 25%;
+}
+.col-8 .col-3 {
+  width: 37.5%;
+}
+.col-8 .col-4 {
+  width: 50%;
+}
+.col-8 .col-5 {
+  width: 62.5%;
+}
+.col-8 .col-6 {
+  width: 75%;
+}
+.col-8 .col-7 {
+  width: 87.5%;
+}
+.col-8 .col-8 {
+  width: 100%;
+}
+
+.col-9 {
+  width: 26.4705882353%;
+}
+.col-9 .col-1 {
+  width: 11.1111111111%;
+}
+.col-9 .col-2 {
+  width: 22.2222222222%;
+}
+.col-9 .col-3 {
+  width: 33.3333333333%;
+}
+.col-9 .col-4 {
+  width: 44.4444444444%;
+}
+.col-9 .col-5 {
+  width: 55.5555555556%;
+}
+.col-9 .col-6 {
+  width: 66.6666666667%;
+}
+.col-9 .col-7 {
+  width: 77.7777777778%;
+}
+.col-9 .col-8 {
+  width: 88.8888888889%;
+}
+.col-9 .col-9 {
+  width: 100%;
+}
+
+.col-10 {
+  width: 29.4117647059%;
+}
+.col-10 .col-1 {
+  width: 10%;
+}
+.col-10 .col-2 {
+  width: 20%;
+}
+.col-10 .col-3 {
+  width: 30%;
+}
+.col-10 .col-4 {
+  width: 40%;
+}
+.col-10 .col-5 {
+  width: 50%;
+}
+.col-10 .col-6 {
+  width: 60%;
+}
+.col-10 .col-7 {
+  width: 70%;
+}
+.col-10 .col-8 {
+  width: 80%;
+}
+.col-10 .col-9 {
+  width: 90%;
+}
+.col-10 .col-10 {
+  width: 100%;
+}
+
+.col-11 {
+  width: 32.3529411765%;
+}
+.col-11 .col-1 {
+  width: 9.0909090909%;
+}
+.col-11 .col-2 {
+  width: 18.1818181818%;
+}
+.col-11 .col-3 {
+  width: 27.2727272727%;
+}
+.col-11 .col-4 {
+  width: 36.3636363636%;
+}
+.col-11 .col-5 {
+  width: 45.4545454545%;
+}
+.col-11 .col-6 {
+  width: 54.5454545455%;
+}
+.col-11 .col-7 {
+  width: 63.6363636364%;
+}
+.col-11 .col-8 {
+  width: 72.7272727273%;
+}
+.col-11 .col-9 {
+  width: 81.8181818182%;
+}
+.col-11 .col-10 {
+  width: 90.9090909091%;
+}
+.col-11 .col-11 {
+  width: 100%;
+}
+
+.col-12 {
+  width: 35.2941176471%;
+}
+.col-12 .col-1 {
+  width: 8.3333333333%;
+}
+.col-12 .col-2 {
+  width: 16.6666666667%;
+}
+.col-12 .col-3 {
+  width: 25%;
+}
+.col-12 .col-4 {
+  width: 33.3333333333%;
+}
+.col-12 .col-5 {
+  width: 41.6666666667%;
+}
+.col-12 .col-6 {
+  width: 50%;
+}
+.col-12 .col-7 {
+  width: 58.3333333333%;
+}
+.col-12 .col-8 {
+  width: 66.6666666667%;
+}
+.col-12 .col-9 {
+  width: 75%;
+}
+.col-12 .col-10 {
+  width: 83.3333333333%;
+}
+.col-12 .col-11 {
+  width: 91.6666666667%;
+}
+.col-12 .col-12 {
+  width: 100%;
+}
+
+.col-13 {
+  width: 38.2352941176%;
+}
+.col-13 .col-1 {
+  width: 7.6923076923%;
+}
+.col-13 .col-2 {
+  width: 15.3846153846%;
+}
+.col-13 .col-3 {
+  width: 23.0769230769%;
+}
+.col-13 .col-4 {
+  width: 30.7692307692%;
+}
+.col-13 .col-5 {
+  width: 38.4615384615%;
+}
+.col-13 .col-6 {
+  width: 46.1538461538%;
+}
+.col-13 .col-7 {
+  width: 53.8461538462%;
+}
+.col-13 .col-8 {
+  width: 61.5384615385%;
+}
+.col-13 .col-9 {
+  width: 69.2307692308%;
+}
+.col-13 .col-10 {
+  width: 76.9230769231%;
+}
+.col-13 .col-11 {
+  width: 84.6153846154%;
+}
+.col-13 .col-12 {
+  width: 92.3076923077%;
+}
+.col-13 .col-13 {
+  width: 100%;
+}
+
+.col-14 {
+  width: 41.1764705882%;
+}
+.col-14 .col-1 {
+  width: 7.1428571429%;
+}
+.col-14 .col-2 {
+  width: 14.2857142857%;
+}
+.col-14 .col-3 {
+  width: 21.4285714286%;
+}
+.col-14 .col-4 {
+  width: 28.5714285714%;
+}
+.col-14 .col-5 {
+  width: 35.7142857143%;
+}
+.col-14 .col-6 {
+  width: 42.8571428571%;
+}
+.col-14 .col-7 {
+  width: 50%;
+}
+.col-14 .col-8 {
+  width: 57.1428571429%;
+}
+.col-14 .col-9 {
+  width: 64.2857142857%;
+}
+.col-14 .col-10 {
+  width: 71.4285714286%;
+}
+.col-14 .col-11 {
+  width: 78.5714285714%;
+}
+.col-14 .col-12 {
+  width: 85.7142857143%;
+}
+.col-14 .col-13 {
+  width: 92.8571428571%;
+}
+.col-14 .col-14 {
+  width: 100%;
+}
+
+.col-15 {
+  width: 44.1176470588%;
+}
+.col-15 .col-1 {
+  width: 6.6666666667%;
+}
+.col-15 .col-2 {
+  width: 13.3333333333%;
+}
+.col-15 .col-3 {
+  width: 20%;
+}
+.col-15 .col-4 {
+  width: 26.6666666667%;
+}
+.col-15 .col-5 {
+  width: 33.3333333333%;
+}
+.col-15 .col-6 {
+  width: 40%;
+}
+.col-15 .col-7 {
+  width: 46.6666666667%;
+}
+.col-15 .col-8 {
+  width: 53.3333333333%;
+}
+.col-15 .col-9 {
+  width: 60%;
+}
+.col-15 .col-10 {
+  width: 66.6666666667%;
+}
+.col-15 .col-11 {
+  width: 73.3333333333%;
+}
+.col-15 .col-12 {
+  width: 80%;
+}
+.col-15 .col-13 {
+  width: 86.6666666667%;
+}
+.col-15 .col-14 {
+  width: 93.3333333333%;
+}
+.col-15 .col-15 {
+  width: 100%;
+}
+
+.col-16 {
+  width: 47.0588235294%;
+}
+.col-16 .col-1 {
+  width: 6.25%;
+}
+.col-16 .col-2 {
+  width: 12.5%;
+}
+.col-16 .col-3 {
+  width: 18.75%;
+}
+.col-16 .col-4 {
+  width: 25%;
+}
+.col-16 .col-5 {
+  width: 31.25%;
+}
+.col-16 .col-6 {
+  width: 37.5%;
+}
+.col-16 .col-7 {
+  width: 43.75%;
+}
+.col-16 .col-8 {
+  width: 50%;
+}
+.col-16 .col-9 {
+  width: 56.25%;
+}
+.col-16 .col-10 {
+  width: 62.5%;
+}
+.col-16 .col-11 {
+  width: 68.75%;
+}
+.col-16 .col-12 {
+  width: 75%;
+}
+.col-16 .col-13 {
+  width: 81.25%;
+}
+.col-16 .col-14 {
+  width: 87.5%;
+}
+.col-16 .col-15 {
+  width: 93.75%;
+}
+.col-16 .col-16 {
+  width: 100%;
+}
+
+.col-17 {
+  width: 50%;
+}
+.col-17 .col-1 {
+  width: 5.8823529412%;
+}
+.col-17 .col-2 {
+  width: 11.7647058824%;
+}
+.col-17 .col-3 {
+  width: 17.6470588235%;
+}
+.col-17 .col-4 {
+  width: 23.5294117647%;
+}
+.col-17 .col-5 {
+  width: 29.4117647059%;
+}
+.col-17 .col-6 {
+  width: 35.2941176471%;
+}
+.col-17 .col-7 {
+  width: 41.1764705882%;
+}
+.col-17 .col-8 {
+  width: 47.0588235294%;
+}
+.col-17 .col-9 {
+  width: 52.9411764706%;
+}
+.col-17 .col-10 {
+  width: 58.8235294118%;
+}
+.col-17 .col-11 {
+  width: 64.7058823529%;
+}
+.col-17 .col-12 {
+  width: 70.5882352941%;
+}
+.col-17 .col-13 {
+  width: 76.4705882353%;
+}
+.col-17 .col-14 {
+  width: 82.3529411765%;
+}
+.col-17 .col-15 {
+  width: 88.2352941176%;
+}
+.col-17 .col-16 {
+  width: 94.1176470588%;
+}
+.col-17 .col-17 {
+  width: 100%;
+}
+
+.col-18 {
+  width: 52.9411764706%;
+}
+.col-18 .col-1 {
+  width: 5.5555555556%;
+}
+.col-18 .col-2 {
+  width: 11.1111111111%;
+}
+.col-18 .col-3 {
+  width: 16.6666666667%;
+}
+.col-18 .col-4 {
+  width: 22.2222222222%;
+}
+.col-18 .col-5 {
+  width: 27.7777777778%;
+}
+.col-18 .col-6 {
+  width: 33.3333333333%;
+}
+.col-18 .col-7 {
+  width: 38.8888888889%;
+}
+.col-18 .col-8 {
+  width: 44.4444444444%;
+}
+.col-18 .col-9 {
+  width: 50%;
+}
+.col-18 .col-10 {
+  width: 55.5555555556%;
+}
+.col-18 .col-11 {
+  width: 61.1111111111%;
+}
+.col-18 .col-12 {
+  width: 66.6666666667%;
+}
+.col-18 .col-13 {
+  width: 72.2222222222%;
+}
+.col-18 .col-14 {
+  width: 77.7777777778%;
+}
+.col-18 .col-15 {
+  width: 83.3333333333%;
+}
+.col-18 .col-16 {
+  width: 88.8888888889%;
+}
+.col-18 .col-17 {
+  width: 94.4444444444%;
+}
+.col-18 .col-18 {
+  width: 100%;
+}
+
+.col-19 {
+  width: 55.8823529412%;
+}
+.col-19 .col-1 {
+  width: 5.2631578947%;
+}
+.col-19 .col-2 {
+  width: 10.5263157895%;
+}
+.col-19 .col-3 {
+  width: 15.7894736842%;
+}
+.col-19 .col-4 {
+  width: 21.0526315789%;
+}
+.col-19 .col-5 {
+  width: 26.3157894737%;
+}
+.col-19 .col-6 {
+  width: 31.5789473684%;
+}
+.col-19 .col-7 {
+  width: 36.8421052632%;
+}
+.col-19 .col-8 {
+  width: 42.1052631579%;
+}
+.col-19 .col-9 {
+  width: 47.3684210526%;
+}
+.col-19 .col-10 {
+  width: 52.6315789474%;
+}
+.col-19 .col-11 {
+  width: 57.8947368421%;
+}
+.col-19 .col-12 {
+  width: 63.1578947368%;
+}
+.col-19 .col-13 {
+  width: 68.4210526316%;
+}
+.col-19 .col-14 {
+  width: 73.6842105263%;
+}
+.col-19 .col-15 {
+  width: 78.9473684211%;
+}
+.col-19 .col-16 {
+  width: 84.2105263158%;
+}
+.col-19 .col-17 {
+  width: 89.4736842105%;
+}
+.col-19 .col-18 {
+  width: 94.7368421053%;
+}
+.col-19 .col-19 {
+  width: 100%;
+}
+
+.col-20 {
+  width: 58.8235294118%;
+}
+.col-20 .col-1 {
+  width: 5%;
+}
+.col-20 .col-2 {
+  width: 10%;
+}
+.col-20 .col-3 {
+  width: 15%;
+}
+.col-20 .col-4 {
+  width: 20%;
+}
+.col-20 .col-5 {
+  width: 25%;
+}
+.col-20 .col-6 {
+  width: 30%;
+}
+.col-20 .col-7 {
+  width: 35%;
+}
+.col-20 .col-8 {
+  width: 40%;
+}
+.col-20 .col-9 {
+  width: 45%;
+}
+.col-20 .col-10 {
+  width: 50%;
+}
+.col-20 .col-11 {
+  width: 55%;
+}
+.col-20 .col-12 {
+  width: 60%;
+}
+.col-20 .col-13 {
+  width: 65%;
+}
+.col-20 .col-14 {
+  width: 70%;
+}
+.col-20 .col-15 {
+  width: 75%;
+}
+.col-20 .col-16 {
+  width: 80%;
+}
+.col-20 .col-17 {
+  width: 85%;
+}
+.col-20 .col-18 {
+  width: 90%;
+}
+.col-20 .col-19 {
+  width: 95%;
+}
+.col-20 .col-20 {
+  width: 100%;
+}
+
+.col-21 {
+  width: 61.7647058824%;
+}
+.col-21 .col-1 {
+  width: 4.7619047619%;
+}
+.col-21 .col-2 {
+  width: 9.5238095238%;
+}
+.col-21 .col-3 {
+  width: 14.2857142857%;
+}
+.col-21 .col-4 {
+  width: 19.0476190476%;
+}
+.col-21 .col-5 {
+  width: 23.8095238095%;
+}
+.col-21 .col-6 {
+  width: 28.5714285714%;
+}
+.col-21 .col-7 {
+  width: 33.3333333333%;
+}
+.col-21 .col-8 {
+  width: 38.0952380952%;
+}
+.col-21 .col-9 {
+  width: 42.8571428571%;
+}
+.col-21 .col-10 {
+  width: 47.619047619%;
+}
+.col-21 .col-11 {
+  width: 52.380952381%;
+}
+.col-21 .col-12 {
+  width: 57.1428571429%;
+}
+.col-21 .col-13 {
+  width: 61.9047619048%;
+}
+.col-21 .col-14 {
+  width: 66.6666666667%;
+}
+.col-21 .col-15 {
+  width: 71.4285714286%;
+}
+.col-21 .col-16 {
+  width: 76.1904761905%;
+}
+.col-21 .col-17 {
+  width: 80.9523809524%;
+}
+.col-21 .col-18 {
+  width: 85.7142857143%;
+}
+.col-21 .col-19 {
+  width: 90.4761904762%;
+}
+.col-21 .col-20 {
+  width: 95.2380952381%;
+}
+.col-21 .col-21 {
+  width: 100%;
+}
+
+.col-22 {
+  width: 64.7058823529%;
+}
+.col-22 .col-1 {
+  width: 4.5454545455%;
+}
+.col-22 .col-2 {
+  width: 9.0909090909%;
+}
+.col-22 .col-3 {
+  width: 13.6363636364%;
+}
+.col-22 .col-4 {
+  width: 18.1818181818%;
+}
+.col-22 .col-5 {
+  width: 22.7272727273%;
+}
+.col-22 .col-6 {
+  width: 27.2727272727%;
+}
+.col-22 .col-7 {
+  width: 31.8181818182%;
+}
+.col-22 .col-8 {
+  width: 36.3636363636%;
+}
+.col-22 .col-9 {
+  width: 40.9090909091%;
+}
+.col-22 .col-10 {
+  width: 45.4545454545%;
+}
+.col-22 .col-11 {
+  width: 50%;
+}
+.col-22 .col-12 {
+  width: 54.5454545455%;
+}
+.col-22 .col-13 {
+  width: 59.0909090909%;
+}
+.col-22 .col-14 {
+  width: 63.6363636364%;
+}
+.col-22 .col-15 {
+  width: 68.1818181818%;
+}
+.col-22 .col-16 {
+  width: 72.7272727273%;
+}
+.col-22 .col-17 {
+  width: 77.2727272727%;
+}
+.col-22 .col-18 {
+  width: 81.8181818182%;
+}
+.col-22 .col-19 {
+  width: 86.3636363636%;
+}
+.col-22 .col-20 {
+  width: 90.9090909091%;
+}
+.col-22 .col-21 {
+  width: 95.4545454545%;
+}
+.col-22 .col-22 {
+  width: 100%;
+}
+
+.col-23 {
+  width: 67.6470588235%;
+}
+.col-23 .col-1 {
+  width: 4.347826087%;
+}
+.col-23 .col-2 {
+  width: 8.6956521739%;
+}
+.col-23 .col-3 {
+  width: 13.0434782609%;
+}
+.col-23 .col-4 {
+  width: 17.3913043478%;
+}
+.col-23 .col-5 {
+  width: 21.7391304348%;
+}
+.col-23 .col-6 {
+  width: 26.0869565217%;
+}
+.col-23 .col-7 {
+  width: 30.4347826087%;
+}
+.col-23 .col-8 {
+  width: 34.7826086957%;
+}
+.col-23 .col-9 {
+  width: 39.1304347826%;
+}
+.col-23 .col-10 {
+  width: 43.4782608696%;
+}
+.col-23 .col-11 {
+  width: 47.8260869565%;
+}
+.col-23 .col-12 {
+  width: 52.1739130435%;
+}
+.col-23 .col-13 {
+  width: 56.5217391304%;
+}
+.col-23 .col-14 {
+  width: 60.8695652174%;
+}
+.col-23 .col-15 {
+  width: 65.2173913043%;
+}
+.col-23 .col-16 {
+  width: 69.5652173913%;
+}
+.col-23 .col-17 {
+  width: 73.9130434783%;
+}
+.col-23 .col-18 {
+  width: 78.2608695652%;
+}
+.col-23 .col-19 {
+  width: 82.6086956522%;
+}
+.col-23 .col-20 {
+  width: 86.9565217391%;
+}
+.col-23 .col-21 {
+  width: 91.3043478261%;
+}
+.col-23 .col-22 {
+  width: 95.652173913%;
+}
+.col-23 .col-23 {
+  width: 100%;
+}
+
+.col-24 {
+  width: 70.5882352941%;
+}
+.col-24 .col-1 {
+  width: 4.1666666667%;
+}
+.col-24 .col-2 {
+  width: 8.3333333333%;
+}
+.col-24 .col-3 {
+  width: 12.5%;
+}
+.col-24 .col-4 {
+  width: 16.6666666667%;
+}
+.col-24 .col-5 {
+  width: 20.8333333333%;
+}
+.col-24 .col-6 {
+  width: 25%;
+}
+.col-24 .col-7 {
+  width: 29.1666666667%;
+}
+.col-24 .col-8 {
+  width: 33.3333333333%;
+}
+.col-24 .col-9 {
+  width: 37.5%;
+}
+.col-24 .col-10 {
+  width: 41.6666666667%;
+}
+.col-24 .col-11 {
+  width: 45.8333333333%;
+}
+.col-24 .col-12 {
+  width: 50%;
+}
+.col-24 .col-13 {
+  width: 54.1666666667%;
+}
+.col-24 .col-14 {
+  width: 58.3333333333%;
+}
+.col-24 .col-15 {
+  width: 62.5%;
+}
+.col-24 .col-16 {
+  width: 66.6666666667%;
+}
+.col-24 .col-17 {
+  width: 70.8333333333%;
+}
+.col-24 .col-18 {
+  width: 75%;
+}
+.col-24 .col-19 {
+  width: 79.1666666667%;
+}
+.col-24 .col-20 {
+  width: 83.3333333333%;
+}
+.col-24 .col-21 {
+  width: 87.5%;
+}
+.col-24 .col-22 {
+  width: 91.6666666667%;
+}
+.col-24 .col-23 {
+  width: 95.8333333333%;
+}
+.col-24 .col-24 {
+  width: 100%;
+}
+
+.col-25 {
+  width: 73.5294117647%;
+}
+.col-25 .col-1 {
+  width: 4%;
+}
+.col-25 .col-2 {
+  width: 8%;
+}
+.col-25 .col-3 {
+  width: 12%;
+}
+.col-25 .col-4 {
+  width: 16%;
+}
+.col-25 .col-5 {
+  width: 20%;
+}
+.col-25 .col-6 {
+  width: 24%;
+}
+.col-25 .col-7 {
+  width: 28%;
+}
+.col-25 .col-8 {
+  width: 32%;
+}
+.col-25 .col-9 {
+  width: 36%;
+}
+.col-25 .col-10 {
+  width: 40%;
+}
+.col-25 .col-11 {
+  width: 44%;
+}
+.col-25 .col-12 {
+  width: 48%;
+}
+.col-25 .col-13 {
+  width: 52%;
+}
+.col-25 .col-14 {
+  width: 56%;
+}
+.col-25 .col-15 {
+  width: 60%;
+}
+.col-25 .col-16 {
+  width: 64%;
+}
+.col-25 .col-17 {
+  width: 68%;
+}
+.col-25 .col-18 {
+  width: 72%;
+}
+.col-25 .col-19 {
+  width: 76%;
+}
+.col-25 .col-20 {
+  width: 80%;
+}
+.col-25 .col-21 {
+  width: 84%;
+}
+.col-25 .col-22 {
+  width: 88%;
+}
+.col-25 .col-23 {
+  width: 92%;
+}
+.col-25 .col-24 {
+  width: 96%;
+}
+.col-25 .col-25 {
+  width: 100%;
+}
+
+.col-26 {
+  width: 76.4705882353%;
+}
+.col-26 .col-1 {
+  width: 3.8461538462%;
+}
+.col-26 .col-2 {
+  width: 7.6923076923%;
+}
+.col-26 .col-3 {
+  width: 11.5384615385%;
+}
+.col-26 .col-4 {
+  width: 15.3846153846%;
+}
+.col-26 .col-5 {
+  width: 19.2307692308%;
+}
+.col-26 .col-6 {
+  width: 23.0769230769%;
+}
+.col-26 .col-7 {
+  width: 26.9230769231%;
+}
+.col-26 .col-8 {
+  width: 30.7692307692%;
+}
+.col-26 .col-9 {
+  width: 34.6153846154%;
+}
+.col-26 .col-10 {
+  width: 38.4615384615%;
+}
+.col-26 .col-11 {
+  width: 42.3076923077%;
+}
+.col-26 .col-12 {
+  width: 46.1538461538%;
+}
+.col-26 .col-13 {
+  width: 50%;
+}
+.col-26 .col-14 {
+  width: 53.8461538462%;
+}
+.col-26 .col-15 {
+  width: 57.6923076923%;
+}
+.col-26 .col-16 {
+  width: 61.5384615385%;
+}
+.col-26 .col-17 {
+  width: 65.3846153846%;
+}
+.col-26 .col-18 {
+  width: 69.2307692308%;
+}
+.col-26 .col-19 {
+  width: 73.0769230769%;
+}
+.col-26 .col-20 {
+  width: 76.9230769231%;
+}
+.col-26 .col-21 {
+  width: 80.7692307692%;
+}
+.col-26 .col-22 {
+  width: 84.6153846154%;
+}
+.col-26 .col-23 {
+  width: 88.4615384615%;
+}
+.col-26 .col-24 {
+  width: 92.3076923077%;
+}
+.col-26 .col-25 {
+  width: 96.1538461538%;
+}
+.col-26 .col-26 {
+  width: 100%;
+}
+
+.col-27 {
+  width: 79.4117647059%;
+}
+.col-27 .col-1 {
+  width: 3.7037037037%;
+}
+.col-27 .col-2 {
+  width: 7.4074074074%;
+}
+.col-27 .col-3 {
+  width: 11.1111111111%;
+}
+.col-27 .col-4 {
+  width: 14.8148148148%;
+}
+.col-27 .col-5 {
+  width: 18.5185185185%;
+}
+.col-27 .col-6 {
+  width: 22.2222222222%;
+}
+.col-27 .col-7 {
+  width: 25.9259259259%;
+}
+.col-27 .col-8 {
+  width: 29.6296296296%;
+}
+.col-27 .col-9 {
+  width: 33.3333333333%;
+}
+.col-27 .col-10 {
+  width: 37.037037037%;
+}
+.col-27 .col-11 {
+  width: 40.7407407407%;
+}
+.col-27 .col-12 {
+  width: 44.4444444444%;
+}
+.col-27 .col-13 {
+  width: 48.1481481481%;
+}
+.col-27 .col-14 {
+  width: 51.8518518519%;
+}
+.col-27 .col-15 {
+  width: 55.5555555556%;
+}
+.col-27 .col-16 {
+  width: 59.2592592593%;
+}
+.col-27 .col-17 {
+  width: 62.962962963%;
+}
+.col-27 .col-18 {
+  width: 66.6666666667%;
+}
+.col-27 .col-19 {
+  width: 70.3703703704%;
+}
+.col-27 .col-20 {
+  width: 74.0740740741%;
+}
+.col-27 .col-21 {
+  width: 77.7777777778%;
+}
+.col-27 .col-22 {
+  width: 81.4814814815%;
+}
+.col-27 .col-23 {
+  width: 85.1851851852%;
+}
+.col-27 .col-24 {
+  width: 88.8888888889%;
+}
+.col-27 .col-25 {
+  width: 92.5925925926%;
+}
+.col-27 .col-26 {
+  width: 96.2962962963%;
+}
+.col-27 .col-27 {
+  width: 100%;
+}
+
+.col-28 {
+  width: 82.3529411765%;
+}
+.col-28 .col-1 {
+  width: 3.5714285714%;
+}
+.col-28 .col-2 {
+  width: 7.1428571429%;
+}
+.col-28 .col-3 {
+  width: 10.7142857143%;
+}
+.col-28 .col-4 {
+  width: 14.2857142857%;
+}
+.col-28 .col-5 {
+  width: 17.8571428571%;
+}
+.col-28 .col-6 {
+  width: 21.4285714286%;
+}
+.col-28 .col-7 {
+  width: 25%;
+}
+.col-28 .col-8 {
+  width: 28.5714285714%;
+}
+.col-28 .col-9 {
+  width: 32.1428571429%;
+}
+.col-28 .col-10 {
+  width: 35.7142857143%;
+}
+.col-28 .col-11 {
+  width: 39.2857142857%;
+}
+.col-28 .col-12 {
+  width: 42.8571428571%;
+}
+.col-28 .col-13 {
+  width: 46.4285714286%;
+}
+.col-28 .col-14 {
+  width: 50%;
+}
+.col-28 .col-15 {
+  width: 53.5714285714%;
+}
+.col-28 .col-16 {
+  width: 57.1428571429%;
+}
+.col-28 .col-17 {
+  width: 60.7142857143%;
+}
+.col-28 .col-18 {
+  width: 64.2857142857%;
+}
+.col-28 .col-19 {
+  width: 67.8571428571%;
+}
+.col-28 .col-20 {
+  width: 71.4285714286%;
+}
+.col-28 .col-21 {
+  width: 75%;
+}
+.col-28 .col-22 {
+  width: 78.5714285714%;
+}
+.col-28 .col-23 {
+  width: 82.1428571429%;
+}
+.col-28 .col-24 {
+  width: 85.7142857143%;
+}
+.col-28 .col-25 {
+  width: 89.2857142857%;
+}
+.col-28 .col-26 {
+  width: 92.8571428571%;
+}
+.col-28 .col-27 {
+  width: 96.4285714286%;
+}
+.col-28 .col-28 {
+  width: 100%;
+}
+
+.col-29 {
+  width: 85.2941176471%;
+}
+.col-29 .col-1 {
+  width: 3.4482758621%;
+}
+.col-29 .col-2 {
+  width: 6.8965517241%;
+}
+.col-29 .col-3 {
+  width: 10.3448275862%;
+}
+.col-29 .col-4 {
+  width: 13.7931034483%;
+}
+.col-29 .col-5 {
+  width: 17.2413793103%;
+}
+.col-29 .col-6 {
+  width: 20.6896551724%;
+}
+.col-29 .col-7 {
+  width: 24.1379310345%;
+}
+.col-29 .col-8 {
+  width: 27.5862068966%;
+}
+.col-29 .col-9 {
+  width: 31.0344827586%;
+}
+.col-29 .col-10 {
+  width: 34.4827586207%;
+}
+.col-29 .col-11 {
+  width: 37.9310344828%;
+}
+.col-29 .col-12 {
+  width: 41.3793103448%;
+}
+.col-29 .col-13 {
+  width: 44.8275862069%;
+}
+.col-29 .col-14 {
+  width: 48.275862069%;
+}
+.col-29 .col-15 {
+  width: 51.724137931%;
+}
+.col-29 .col-16 {
+  width: 55.1724137931%;
+}
+.col-29 .col-17 {
+  width: 58.6206896552%;
+}
+.col-29 .col-18 {
+  width: 62.0689655172%;
+}
+.col-29 .col-19 {
+  width: 65.5172413793%;
+}
+.col-29 .col-20 {
+  width: 68.9655172414%;
+}
+.col-29 .col-21 {
+  width: 72.4137931034%;
+}
+.col-29 .col-22 {
+  width: 75.8620689655%;
+}
+.col-29 .col-23 {
+  width: 79.3103448276%;
+}
+.col-29 .col-24 {
+  width: 82.7586206897%;
+}
+.col-29 .col-25 {
+  width: 86.2068965517%;
+}
+.col-29 .col-26 {
+  width: 89.6551724138%;
+}
+.col-29 .col-27 {
+  width: 93.1034482759%;
+}
+.col-29 .col-28 {
+  width: 96.5517241379%;
+}
+.col-29 .col-29 {
+  width: 100%;
+}
+
+.col-30 {
+  width: 88.2352941176%;
+}
+.col-30 .col-1 {
+  width: 3.3333333333%;
+}
+.col-30 .col-2 {
+  width: 6.6666666667%;
+}
+.col-30 .col-3 {
+  width: 10%;
+}
+.col-30 .col-4 {
+  width: 13.3333333333%;
+}
+.col-30 .col-5 {
+  width: 16.6666666667%;
+}
+.col-30 .col-6 {
+  width: 20%;
+}
+.col-30 .col-7 {
+  width: 23.3333333333%;
+}
+.col-30 .col-8 {
+  width: 26.6666666667%;
+}
+.col-30 .col-9 {
+  width: 30%;
+}
+.col-30 .col-10 {
+  width: 33.3333333333%;
+}
+.col-30 .col-11 {
+  width: 36.6666666667%;
+}
+.col-30 .col-12 {
+  width: 40%;
+}
+.col-30 .col-13 {
+  width: 43.3333333333%;
+}
+.col-30 .col-14 {
+  width: 46.6666666667%;
+}
+.col-30 .col-15 {
+  width: 50%;
+}
+.col-30 .col-16 {
+  width: 53.3333333333%;
+}
+.col-30 .col-17 {
+  width: 56.6666666667%;
+}
+.col-30 .col-18 {
+  width: 60%;
+}
+.col-30 .col-19 {
+  width: 63.3333333333%;
+}
+.col-30 .col-20 {
+  width: 66.6666666667%;
+}
+.col-30 .col-21 {
+  width: 70%;
+}
+.col-30 .col-22 {
+  width: 73.3333333333%;
+}
+.col-30 .col-23 {
+  width: 76.6666666667%;
+}
+.col-30 .col-24 {
+  width: 80%;
+}
+.col-30 .col-25 {
+  width: 83.3333333333%;
+}
+.col-30 .col-26 {
+  width: 86.6666666667%;
+}
+.col-30 .col-27 {
+  width: 90%;
+}
+.col-30 .col-28 {
+  width: 93.3333333333%;
+}
+.col-30 .col-29 {
+  width: 96.6666666667%;
+}
+.col-30 .col-30 {
+  width: 100%;
+}
+
+.col-31 {
+  width: 91.1764705882%;
+}
+.col-31 .col-1 {
+  width: 3.2258064516%;
+}
+.col-31 .col-2 {
+  width: 6.4516129032%;
+}
+.col-31 .col-3 {
+  width: 9.6774193548%;
+}
+.col-31 .col-4 {
+  width: 12.9032258065%;
+}
+.col-31 .col-5 {
+  width: 16.1290322581%;
+}
+.col-31 .col-6 {
+  width: 19.3548387097%;
+}
+.col-31 .col-7 {
+  width: 22.5806451613%;
+}
+.col-31 .col-8 {
+  width: 25.8064516129%;
+}
+.col-31 .col-9 {
+  width: 29.0322580645%;
+}
+.col-31 .col-10 {
+  width: 32.2580645161%;
+}
+.col-31 .col-11 {
+  width: 35.4838709677%;
+}
+.col-31 .col-12 {
+  width: 38.7096774194%;
+}
+.col-31 .col-13 {
+  width: 41.935483871%;
+}
+.col-31 .col-14 {
+  width: 45.1612903226%;
+}
+.col-31 .col-15 {
+  width: 48.3870967742%;
+}
+.col-31 .col-16 {
+  width: 51.6129032258%;
+}
+.col-31 .col-17 {
+  width: 54.8387096774%;
+}
+.col-31 .col-18 {
+  width: 58.064516129%;
+}
+.col-31 .col-19 {
+  width: 61.2903225806%;
+}
+.col-31 .col-20 {
+  width: 64.5161290323%;
+}
+.col-31 .col-21 {
+  width: 67.7419354839%;
+}
+.col-31 .col-22 {
+  width: 70.9677419355%;
+}
+.col-31 .col-23 {
+  width: 74.1935483871%;
+}
+.col-31 .col-24 {
+  width: 77.4193548387%;
+}
+.col-31 .col-25 {
+  width: 80.6451612903%;
+}
+.col-31 .col-26 {
+  width: 83.8709677419%;
+}
+.col-31 .col-27 {
+  width: 87.0967741935%;
+}
+.col-31 .col-28 {
+  width: 90.3225806452%;
+}
+.col-31 .col-29 {
+  width: 93.5483870968%;
+}
+.col-31 .col-30 {
+  width: 96.7741935484%;
+}
+.col-31 .col-31 {
+  width: 100%;
+}
+
+.col-32 {
+  width: 94.1176470588%;
+}
+.col-32 .col-1 {
+  width: 3.125%;
+}
+.col-32 .col-2 {
+  width: 6.25%;
+}
+.col-32 .col-3 {
+  width: 9.375%;
+}
+.col-32 .col-4 {
+  width: 12.5%;
+}
+.col-32 .col-5 {
+  width: 15.625%;
+}
+.col-32 .col-6 {
+  width: 18.75%;
+}
+.col-32 .col-7 {
+  width: 21.875%;
+}
+.col-32 .col-8 {
+  width: 25%;
+}
+.col-32 .col-9 {
+  width: 28.125%;
+}
+.col-32 .col-10 {
+  width: 31.25%;
+}
+.col-32 .col-11 {
+  width: 34.375%;
+}
+.col-32 .col-12 {
+  width: 37.5%;
+}
+.col-32 .col-13 {
+  width: 40.625%;
+}
+.col-32 .col-14 {
+  width: 43.75%;
+}
+.col-32 .col-15 {
+  width: 46.875%;
+}
+.col-32 .col-16 {
+  width: 50%;
+}
+.col-32 .col-17 {
+  width: 53.125%;
+}
+.col-32 .col-18 {
+  width: 56.25%;
+}
+.col-32 .col-19 {
+  width: 59.375%;
+}
+.col-32 .col-20 {
+  width: 62.5%;
+}
+.col-32 .col-21 {
+  width: 65.625%;
+}
+.col-32 .col-22 {
+  width: 68.75%;
+}
+.col-32 .col-23 {
+  width: 71.875%;
+}
+.col-32 .col-24 {
+  width: 75%;
+}
+.col-32 .col-25 {
+  width: 78.125%;
+}
+.col-32 .col-26 {
+  width: 81.25%;
+}
+.col-32 .col-27 {
+  width: 84.375%;
+}
+.col-32 .col-28 {
+  width: 87.5%;
+}
+.col-32 .col-29 {
+  width: 90.625%;
+}
+.col-32 .col-30 {
+  width: 93.75%;
+}
+.col-32 .col-31 {
+  width: 96.875%;
+}
+.col-32 .col-32 {
+  width: 100%;
+}
+
+.col-33 {
+  width: 97.0588235294%;
+}
+.col-33 .col-1 {
+  width: 3.0303030303%;
+}
+.col-33 .col-2 {
+  width: 6.0606060606%;
+}
+.col-33 .col-3 {
+  width: 9.0909090909%;
+}
+.col-33 .col-4 {
+  width: 12.1212121212%;
+}
+.col-33 .col-5 {
+  width: 15.1515151515%;
+}
+.col-33 .col-6 {
+  width: 18.1818181818%;
+}
+.col-33 .col-7 {
+  width: 21.2121212121%;
+}
+.col-33 .col-8 {
+  width: 24.2424242424%;
+}
+.col-33 .col-9 {
+  width: 27.2727272727%;
+}
+.col-33 .col-10 {
+  width: 30.303030303%;
+}
+.col-33 .col-11 {
+  width: 33.3333333333%;
+}
+.col-33 .col-12 {
+  width: 36.3636363636%;
+}
+.col-33 .col-13 {
+  width: 39.3939393939%;
+}
+.col-33 .col-14 {
+  width: 42.4242424242%;
+}
+.col-33 .col-15 {
+  width: 45.4545454545%;
+}
+.col-33 .col-16 {
+  width: 48.4848484848%;
+}
+.col-33 .col-17 {
+  width: 51.5151515152%;
+}
+.col-33 .col-18 {
+  width: 54.5454545455%;
+}
+.col-33 .col-19 {
+  width: 57.5757575758%;
+}
+.col-33 .col-20 {
+  width: 60.6060606061%;
+}
+.col-33 .col-21 {
+  width: 63.6363636364%;
+}
+.col-33 .col-22 {
+  width: 66.6666666667%;
+}
+.col-33 .col-23 {
+  width: 69.696969697%;
+}
+.col-33 .col-24 {
+  width: 72.7272727273%;
+}
+.col-33 .col-25 {
+  width: 75.7575757576%;
+}
+.col-33 .col-26 {
+  width: 78.7878787879%;
+}
+.col-33 .col-27 {
+  width: 81.8181818182%;
+}
+.col-33 .col-28 {
+  width: 84.8484848485%;
+}
+.col-33 .col-29 {
+  width: 87.8787878788%;
+}
+.col-33 .col-30 {
+  width: 90.9090909091%;
+}
+.col-33 .col-31 {
+  width: 93.9393939394%;
+}
+.col-33 .col-32 {
+  width: 96.9696969697%;
+}
+.col-33 .col-33 {
+  width: 100%;
+}
+
+.col-34 {
+  width: 100%;
+}
+.col-34 .col-1 {
+  width: 2.9411764706%;
+}
+.col-34 .col-2 {
+  width: 5.8823529412%;
+}
+.col-34 .col-3 {
+  width: 8.8235294118%;
+}
+.col-34 .col-4 {
+  width: 11.7647058824%;
+}
+.col-34 .col-5 {
+  width: 14.7058823529%;
+}
+.col-34 .col-6 {
+  width: 17.6470588235%;
+}
+.col-34 .col-7 {
+  width: 20.5882352941%;
+}
+.col-34 .col-8 {
+  width: 23.5294117647%;
+}
+.col-34 .col-9 {
+  width: 26.4705882353%;
+}
+.col-34 .col-10 {
+  width: 29.4117647059%;
+}
+.col-34 .col-11 {
+  width: 32.3529411765%;
+}
+.col-34 .col-12 {
+  width: 35.2941176471%;
+}
+.col-34 .col-13 {
+  width: 38.2352941176%;
+}
+.col-34 .col-14 {
+  width: 41.1764705882%;
+}
+.col-34 .col-15 {
+  width: 44.1176470588%;
+}
+.col-34 .col-16 {
+  width: 47.0588235294%;
+}
+.col-34 .col-17 {
+  width: 50%;
+}
+.col-34 .col-18 {
+  width: 52.9411764706%;
+}
+.col-34 .col-19 {
+  width: 55.8823529412%;
+}
+.col-34 .col-20 {
+  width: 58.8235294118%;
+}
+.col-34 .col-21 {
+  width: 61.7647058824%;
+}
+.col-34 .col-22 {
+  width: 64.7058823529%;
+}
+.col-34 .col-23 {
+  width: 67.6470588235%;
+}
+.col-34 .col-24 {
+  width: 70.5882352941%;
+}
+.col-34 .col-25 {
+  width: 73.5294117647%;
+}
+.col-34 .col-26 {
+  width: 76.4705882353%;
+}
+.col-34 .col-27 {
+  width: 79.4117647059%;
+}
+.col-34 .col-28 {
+  width: 82.3529411765%;
+}
+.col-34 .col-29 {
+  width: 85.2941176471%;
+}
+.col-34 .col-30 {
+  width: 88.2352941176%;
+}
+.col-34 .col-31 {
+  width: 91.1764705882%;
+}
+.col-34 .col-32 {
+  width: 94.1176470588%;
+}
+.col-34 .col-33 {
+  width: 97.0588235294%;
+}
+.col-34 .col-34 {
+  width: 100%;
+}
+
+.row-1 {
+  height: 16.6666666667%;
+}
+.row-1 .row-1 {
+  height: 100%;
+}
+
+.row-2 {
+  height: 33.3333333333%;
+}
+.row-2 .row-1 {
+  height: 50%;
+}
+.row-2 .row-2 {
+  height: 100%;
+}
+
+.row-3 {
+  height: 50%;
+}
+.row-3 .row-1 {
+  height: 33.3333333333%;
+}
+.row-3 .row-2 {
+  height: 66.6666666667%;
+}
+.row-3 .row-3 {
+  height: 100%;
+}
+
+.row-4 {
+  height: 66.6666666667%;
+}
+.row-4 .row-1 {
+  height: 25%;
+}
+.row-4 .row-2 {
+  height: 50%;
+}
+.row-4 .row-3 {
+  height: 75%;
+}
+.row-4 .row-4 {
+  height: 100%;
+}
+
+.row-5 {
+  height: 83.3333333333%;
+}
+.row-5 .row-1 {
+  height: 20%;
+}
+.row-5 .row-2 {
+  height: 40%;
+}
+.row-5 .row-3 {
+  height: 60%;
+}
+.row-5 .row-4 {
+  height: 80%;
+}
+.row-5 .row-5 {
+  height: 100%;
+}
+
+.row-6 {
+  height: 100%;
+}
+.row-6 .row-1 {
+  height: 16.6666666667%;
+}
+.row-6 .row-2 {
+  height: 33.3333333333%;
+}
+.row-6 .row-3 {
+  height: 50%;
+}
+.row-6 .row-4 {
+  height: 66.6666666667%;
+}
+.row-6 .row-5 {
+  height: 83.3333333333%;
+}
+.row-6 .row-6 {
+  height: 100%;
+}
+
+* {
+  box-sizing: border-box;
+  outline: none;
+  border: none;
+}
+
+body {
+  touch-action: manipulation;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #0b0b0b;
+  font-size: 16px;
+  box-sizing: border-box;
+  position: relative;
+  height: 100vh;
+  min-height: 500px;
+  min-width: 980px;
+}
+body #shell {
+  opacity: 1;
+  box-shadow: 0 0 1px 2px rgba(0, 0, 0, 0.1), inset -1px -1px 2px 1px rgba(0, 0, 0, 0.3), inset 1px 1px 2px 0 rgba(255, 255, 255, 0.6);
+  display: block;
+  position: relative;
+  height: 26.6em;
+  width: 74.6em;
+  background: #d1d3dc;
+  border-radius: 1em;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+body #shell #inner-frame {
+  box-shadow: 0 0 1px 0px rgba(0, 0, 0, 0.5);
+  display: block;
+  position: absolute;
+  top: 4.6%;
+  left: 1.8%;
+  width: 92%;
+  height: 91.4%;
+  background: rgba(0, 0, 0, 0.3);
+  border-radius: 0.3em;
+}
+body #shell #inner-frame .panel {
+  display: table-cell;
+  position: relative;
+  float: left;
+  box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.2), inset -1px -1px 1px 0 rgba(0, 0, 0, 0.3), inset 1px 1px 2px 0 rgba(255, 255, 255, 0.6);
+  box-sizing: border-box;
+  background: #d1d3dc;
+  border: 0.07rem solid rgba(0, 0, 0, 0.9);
+  border-radius: 0.2em;
+}
+body #shell #inner-frame .panel-group {
+  float: left;
+}
+body #shell #inner-frame .panel-group .panel {
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+}
+body #shell #inner-frame #speaker {
+  font-family: Helvetia Neue, sans-serif;
+  letter-spacing: 0.18em;
+  padding-top: 1.3%;
+  text-align: center;
+  font-size: 1em;
+  line-height: 0;
+  color: black;
+}
+body #shell #inner-frame #speaker span {
+  display: block;
+  height: auto;
+  margin-bottom: 6.5%;
+  text-shadow: -0.1em -0.1em 1px rgba(0, 0, 0, 0.25), 0.1em 0.1em 1px rgba(255, 255, 255, 0.3);
+}
+body #shell #inner-frame .volume:before {
+  content: "";
+  box-shadow: inset 1px 1px 4px rgba(0, 0, 0, 0.2);
+  border-radius: 100%;
+  height: 0.5em;
+  width: 0.5em;
+  position: absolute;
+  top: 60%;
+  left: 20%;
+}
+body #shell #inner-frame .volume:after {
+  content: "";
+  background: white;
+  border: 0.01rem solid rgba(0, 0, 0, 0.5);
+  border-radius: 100%;
+  box-shadow: 1px 1px 1px 0px rgba(0, 0, 0, 0.3), -2px -2px 7px 0 rgba(255, 255, 255, 0.3), inset 0 -1px 1px 0 rgba(0, 0, 0, 0.2), inset 1px 1px 1px 0 rgba(255, 255, 255, 0.3);
+  display: block;
+  height: 65%;
+  width: 33%;
+  margin: 7%;
+}
+body #shell #inner-frame .knob {
+  position: relative;
+}
+body #shell #inner-frame .knob:before {
+  content: "";
+  border: 0.01rem solid rgba(0, 0, 0, 0.5);
+  border-radius: 100%;
+  box-shadow: -1px -1px 3px 0 rgba(255, 255, 255, 0.25), inset 0 -1px 0 0 rgba(0, 0, 0, 0.2), inset 1px 1px 1px 0 rgba(255, 255, 255, 0.3);
+  display: block;
+  height: 60%;
+  width: 60%;
+  margin: 20%;
+}
+body #shell #inner-frame .knob:after {
+  content: "";
+  background: orange;
+  border-radius: 100%;
+  box-shadow: 4px 4px 4px 0 rgba(0, 0, 0, 0.2), -2px -2px 7px 0 rgba(255, 255, 255, 0.3), inset 0 -1px 1px 0 rgba(0, 0, 0, 0.2), inset 1px 1px 1px 0 rgba(255, 255, 255, 0.3);
+  display: block;
+  height: 36%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 36%;
+  margin: 32%;
+}
+body #shell #inner-frame .knob--blue:after {
+  background: #70b2ec;
+}
+body #shell #inner-frame .knob--green:after {
+  background: #5dcb7e;
+}
+body #shell #inner-frame .knob--white:after {
+  background: white;
+}
+body #shell #inner-frame .knob--orange:after {
+  background: #ed753b;
+}
+body #shell #inner-frame .knob__indentation {
+  border-radius: 1em;
+  box-sizing: border-box;
+  box-shadow: inset 1px 1px 4px rgba(0, 0, 0, 0.2);
+  display: block;
+  position: absolute;
+  height: 8%;
+  width: 23%;
+  margin: 45.5% 39%;
+  top: 0;
+  left: 0;
+  z-index: 2;
+}
+body #shell #inner-frame .button {
+  box-sizing: border-box;
+  transition: box-shadow 0.15s;
+}
+body #shell #inner-frame .button:after {
+  background: #d1d3dc;
+  transition: -webkit-transform 0.15s;
+  transition: transform 0.15s;
+  transition: transform 0.15s, -webkit-transform 0.15s;
+  border-radius: 100%;
+  box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.45), -1px -1px 4px 0 rgba(255, 255, 255, 0.5), inset -1px -1px 1px 0 rgba(0, 0, 0, 0.2), inset 1px 1px 1px 0 rgba(255, 255, 255, 0.3);
+  content: "";
+  display: block;
+  width: 65%;
+  height: 65%;
+  margin: 15% auto;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+body #shell #inner-frame .button:active {
+  box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.2), inset -1px -1px 1px 0 rgba(0, 0, 0, 0.3), inset 0px 1px 2px 1px rgba(20, 20, 20, 0.4), inset 1px 1px 1px 0 rgba(255, 255, 255, 0.3);
+}
+body #shell #inner-frame .button:active:after {
+  -webkit-transform: scale(0.99);
+          transform: scale(0.99);
+}
+body #shell #inner-frame .button--black:after {
+  background: radial-gradient(ellipse at center, #000000 61%, #d1d3dc 61%);
+}
+body #shell #inner-frame .button--left:after {
+  margin: 10% 12%;
+  width: 44%;
+}
+body #shell #inner-frame .button--right:after {
+  float: right;
+  margin: 10% 12%;
+  width: 44%;
+}
+body #shell #inner-frame .button--tall:after {
+  height: 83%;
+  border-radius: 3em;
+}
+body #shell #inner-frame #screen {
+  background: black;
+  background: linear-gradient(135deg, #131313 0%, #1c1c1c 8%, #111111 22%, #1e1e1e 40%, #000000 42%, #333333 100%);
+}
+body #mic {
+  line-height: 0;
+  position: absolute;
+  right: 2%;
+  top: 10.25%;
+  font-family: Helvetia Neue, sans-serif;
+  letter-spacing: 0.18em;
+  text-align: center;
+  font-size: 1em;
+  line-height: 0;
+  color: black;
+}
+body #mic span {
+  display: block;
+  height: auto;
+  margin-bottom: 0.7em;
+  text-shadow: -0.1em -0.1em 1px rgba(0, 0, 0, 0.25), 0.1em 0.1em 1px rgba(255, 255, 255, 0.3);
+}
+body #eq {
+  line-height: 0;
+  position: absolute;
+  right: 2.8%;
+  top: 36.5%;
+  font-family: Helvetia Neue, sans-serif;
+  text-align: center;
+  font-size: 1em;
+  line-height: 0;
+  color: black;
+}
+body #eq span {
+  display: block;
+  height: auto;
+  margin-bottom: 0.75em;
+  text-shadow: -0.1em -0.1em 1px rgba(0, 0, 0, 0.25), 0.1em 0.1em 1px rgba(255, 255, 255, 0.3);
+}
+
+.hidden {
+  display: none;
+}
+
+.button-title {
+  position: absolute;
+  font-family: helvetica, arial;
+  z-index: 100;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #3c3c3c;
+}
+
+.control[value="maj"]:checked ~ .tonic-maj:before,
+.control[value="min"]:checked ~ .tonic-min:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: orange;
+}
+
+.control[value="maj"]:checked ~ .control[value="A"]:checked ~ .note-A:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: blue;
+}
+
+.control[value="maj"]:checked ~ .control[value="A"]:checked ~ .note-B:before,
+.control[value="maj"]:checked ~ .control[value="A"]:checked ~ .note-Cs:before,
+.control[value="maj"]:checked ~ .control[value="A"]:checked ~ .note-D:before,
+.control[value="maj"]:checked ~ .control[value="A"]:checked ~ .note-E:before,
+.control[value="maj"]:checked ~ .control[value="A"]:checked ~ .note-Fs:before,
+.control[value="maj"]:checked ~ .control[value="A"]:checked ~ .note-Gs:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: green;
+}
+
+.control[value="min"]:checked ~ .control[value="A"]:checked ~ .note-A:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: blue;
+}
+
+.control[value="min"]:checked ~ .control[value="A"]:checked ~ .note-B:before,
+.control[value="min"]:checked ~ .control[value="A"]:checked ~ .note-C:before,
+.control[value="min"]:checked ~ .control[value="A"]:checked ~ .note-D:before,
+.control[value="min"]:checked ~ .control[value="A"]:checked ~ .note-E:before,
+.control[value="min"]:checked ~ .control[value="A"]:checked ~ .note-F:before,
+.control[value="min"]:checked ~ .control[value="A"]:checked ~ .note-G:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: green;
+}
+
+.control[value="maj"]:checked ~ .control[value="As"]:checked ~ .note-As:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: blue;
+}
+
+.control[value="maj"]:checked ~ .control[value="As"]:checked ~ .note-C:before,
+.control[value="maj"]:checked ~ .control[value="As"]:checked ~ .note-D:before,
+.control[value="maj"]:checked ~ .control[value="As"]:checked ~ .note-Ds:before,
+.control[value="maj"]:checked ~ .control[value="As"]:checked ~ .note-F:before,
+.control[value="maj"]:checked ~ .control[value="As"]:checked ~ .note-G:before,
+.control[value="maj"]:checked ~ .control[value="As"]:checked ~ .note-A:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: green;
+}
+
+.control[value="min"]:checked ~ .control[value="As"]:checked ~ .note-As:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: blue;
+}
+
+.control[value="min"]:checked ~ .control[value="As"]:checked ~ .note-C:before,
+.control[value="min"]:checked ~ .control[value="As"]:checked ~ .note-Cs:before,
+.control[value="min"]:checked ~ .control[value="As"]:checked ~ .note-Ds:before,
+.control[value="min"]:checked ~ .control[value="As"]:checked ~ .note-F:before,
+.control[value="min"]:checked ~ .control[value="As"]:checked ~ .note-Fs:before,
+.control[value="min"]:checked ~ .control[value="As"]:checked ~ .note-Gs:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: green;
+}
+
+.control[value="maj"]:checked ~ .control[value="B"]:checked ~ .note-B:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: blue;
+}
+
+.control[value="maj"]:checked ~ .control[value="B"]:checked ~ .note-Cs:before,
+.control[value="maj"]:checked ~ .control[value="B"]:checked ~ .note-Ds:before,
+.control[value="maj"]:checked ~ .control[value="B"]:checked ~ .note-E:before,
+.control[value="maj"]:checked ~ .control[value="B"]:checked ~ .note-Fs:before,
+.control[value="maj"]:checked ~ .control[value="B"]:checked ~ .note-Gs:before,
+.control[value="maj"]:checked ~ .control[value="B"]:checked ~ .note-As:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: green;
+}
+
+.control[value="min"]:checked ~ .control[value="B"]:checked ~ .note-B:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: blue;
+}
+
+.control[value="min"]:checked ~ .control[value="B"]:checked ~ .note-Cs:before,
+.control[value="min"]:checked ~ .control[value="B"]:checked ~ .note-D:before,
+.control[value="min"]:checked ~ .control[value="B"]:checked ~ .note-E:before,
+.control[value="min"]:checked ~ .control[value="B"]:checked ~ .note-Fs:before,
+.control[value="min"]:checked ~ .control[value="B"]:checked ~ .note-G:before,
+.control[value="min"]:checked ~ .control[value="B"]:checked ~ .note-A:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: green;
+}
+
+.control[value="maj"]:checked ~ .control[value="C"]:checked ~ .note-C:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: blue;
+}
+
+.control[value="maj"]:checked ~ .control[value="C"]:checked ~ .note-D:before,
+.control[value="maj"]:checked ~ .control[value="C"]:checked ~ .note-E:before,
+.control[value="maj"]:checked ~ .control[value="C"]:checked ~ .note-F:before,
+.control[value="maj"]:checked ~ .control[value="C"]:checked ~ .note-G:before,
+.control[value="maj"]:checked ~ .control[value="C"]:checked ~ .note-A:before,
+.control[value="maj"]:checked ~ .control[value="C"]:checked ~ .note-B:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: green;
+}
+
+.control[value="min"]:checked ~ .control[value="C"]:checked ~ .note-C:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: blue;
+}
+
+.control[value="min"]:checked ~ .control[value="C"]:checked ~ .note-D:before,
+.control[value="min"]:checked ~ .control[value="C"]:checked ~ .note-Ds:before,
+.control[value="min"]:checked ~ .control[value="C"]:checked ~ .note-F:before,
+.control[value="min"]:checked ~ .control[value="C"]:checked ~ .note-G:before,
+.control[value="min"]:checked ~ .control[value="C"]:checked ~ .note-Gs:before,
+.control[value="min"]:checked ~ .control[value="C"]:checked ~ .note-As:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: green;
+}
+
+.control[value="maj"]:checked ~ .control[value="Cs"]:checked ~ .note-Cs:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: blue;
+}
+
+.control[value="maj"]:checked ~ .control[value="Cs"]:checked ~ .note-Ds:before,
+.control[value="maj"]:checked ~ .control[value="Cs"]:checked ~ .note-F:before,
+.control[value="maj"]:checked ~ .control[value="Cs"]:checked ~ .note-Fs:before,
+.control[value="maj"]:checked ~ .control[value="Cs"]:checked ~ .note-Gs:before,
+.control[value="maj"]:checked ~ .control[value="Cs"]:checked ~ .note-As:before,
+.control[value="maj"]:checked ~ .control[value="Cs"]:checked ~ .note-C:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: green;
+}
+
+.control[value="min"]:checked ~ .control[value="Cs"]:checked ~ .note-Cs:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: blue;
+}
+
+.control[value="min"]:checked ~ .control[value="Cs"]:checked ~ .note-Ds:before,
+.control[value="min"]:checked ~ .control[value="Cs"]:checked ~ .note-E:before,
+.control[value="min"]:checked ~ .control[value="Cs"]:checked ~ .note-Fs:before,
+.control[value="min"]:checked ~ .control[value="Cs"]:checked ~ .note-Gs:before,
+.control[value="min"]:checked ~ .control[value="Cs"]:checked ~ .note-A:before,
+.control[value="min"]:checked ~ .control[value="Cs"]:checked ~ .note-B:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: green;
+}
+
+.control[value="maj"]:checked ~ .control[value="D"]:checked ~ .note-D:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: blue;
+}
+
+.control[value="maj"]:checked ~ .control[value="D"]:checked ~ .note-E:before,
+.control[value="maj"]:checked ~ .control[value="D"]:checked ~ .note-Fs:before,
+.control[value="maj"]:checked ~ .control[value="D"]:checked ~ .note-G:before,
+.control[value="maj"]:checked ~ .control[value="D"]:checked ~ .note-A:before,
+.control[value="maj"]:checked ~ .control[value="D"]:checked ~ .note-B:before,
+.control[value="maj"]:checked ~ .control[value="D"]:checked ~ .note-Cs:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: green;
+}
+
+.control[value="min"]:checked ~ .control[value="D"]:checked ~ .note-D:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: blue;
+}
+
+.control[value="min"]:checked ~ .control[value="D"]:checked ~ .note-E:before,
+.control[value="min"]:checked ~ .control[value="D"]:checked ~ .note-F:before,
+.control[value="min"]:checked ~ .control[value="D"]:checked ~ .note-G:before,
+.control[value="min"]:checked ~ .control[value="D"]:checked ~ .note-A:before,
+.control[value="min"]:checked ~ .control[value="D"]:checked ~ .note-As:before,
+.control[value="min"]:checked ~ .control[value="D"]:checked ~ .note-C:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: green;
+}
+
+.control[value="maj"]:checked ~ .control[value="Ds"]:checked ~ .note-Ds:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: blue;
+}
+
+.control[value="maj"]:checked ~ .control[value="Ds"]:checked ~ .note-F:before,
+.control[value="maj"]:checked ~ .control[value="Ds"]:checked ~ .note-G:before,
+.control[value="maj"]:checked ~ .control[value="Ds"]:checked ~ .note-Gs:before,
+.control[value="maj"]:checked ~ .control[value="Ds"]:checked ~ .note-As:before,
+.control[value="maj"]:checked ~ .control[value="Ds"]:checked ~ .note-C:before,
+.control[value="maj"]:checked ~ .control[value="Ds"]:checked ~ .note-D:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: green;
+}
+
+.control[value="min"]:checked ~ .control[value="Ds"]:checked ~ .note-Ds:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: blue;
+}
+
+.control[value="min"]:checked ~ .control[value="Ds"]:checked ~ .note-F:before,
+.control[value="min"]:checked ~ .control[value="Ds"]:checked ~ .note-Fs:before,
+.control[value="min"]:checked ~ .control[value="Ds"]:checked ~ .note-Gs:before,
+.control[value="min"]:checked ~ .control[value="Ds"]:checked ~ .note-As:before,
+.control[value="min"]:checked ~ .control[value="Ds"]:checked ~ .note-B:before,
+.control[value="min"]:checked ~ .control[value="Ds"]:checked ~ .note-Cs:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: green;
+}
+
+.control[value="maj"]:checked ~ .control[value="E"]:checked ~ .note-E:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: blue;
+}
+
+.control[value="maj"]:checked ~ .control[value="E"]:checked ~ .note-Fs:before,
+.control[value="maj"]:checked ~ .control[value="E"]:checked ~ .note-Gs:before,
+.control[value="maj"]:checked ~ .control[value="E"]:checked ~ .note-A:before,
+.control[value="maj"]:checked ~ .control[value="E"]:checked ~ .note-B:before,
+.control[value="maj"]:checked ~ .control[value="E"]:checked ~ .note-Cs:before,
+.control[value="maj"]:checked ~ .control[value="E"]:checked ~ .note-Ds:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: green;
+}
+
+.control[value="min"]:checked ~ .control[value="E"]:checked ~ .note-E:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: blue;
+}
+
+.control[value="min"]:checked ~ .control[value="E"]:checked ~ .note-Fs:before,
+.control[value="min"]:checked ~ .control[value="E"]:checked ~ .note-G:before,
+.control[value="min"]:checked ~ .control[value="E"]:checked ~ .note-A:before,
+.control[value="min"]:checked ~ .control[value="E"]:checked ~ .note-B:before,
+.control[value="min"]:checked ~ .control[value="E"]:checked ~ .note-C:before,
+.control[value="min"]:checked ~ .control[value="E"]:checked ~ .note-D:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: green;
+}
+
+.control[value="maj"]:checked ~ .control[value="F"]:checked ~ .note-F:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: blue;
+}
+
+.control[value="maj"]:checked ~ .control[value="F"]:checked ~ .note-G:before,
+.control[value="maj"]:checked ~ .control[value="F"]:checked ~ .note-A:before,
+.control[value="maj"]:checked ~ .control[value="F"]:checked ~ .note-As:before,
+.control[value="maj"]:checked ~ .control[value="F"]:checked ~ .note-C:before,
+.control[value="maj"]:checked ~ .control[value="F"]:checked ~ .note-D:before,
+.control[value="maj"]:checked ~ .control[value="F"]:checked ~ .note-E:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: green;
+}
+
+.control[value="min"]:checked ~ .control[value="F"]:checked ~ .note-F:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: blue;
+}
+
+.control[value="min"]:checked ~ .control[value="F"]:checked ~ .note-G:before,
+.control[value="min"]:checked ~ .control[value="F"]:checked ~ .note-Gs:before,
+.control[value="min"]:checked ~ .control[value="F"]:checked ~ .note-As:before,
+.control[value="min"]:checked ~ .control[value="F"]:checked ~ .note-C:before,
+.control[value="min"]:checked ~ .control[value="F"]:checked ~ .note-Cs:before,
+.control[value="min"]:checked ~ .control[value="F"]:checked ~ .note-Ds:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: green;
+}
+
+.control[value="maj"]:checked ~ .control[value="Fs"]:checked ~ .note-Fs:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: blue;
+}
+
+.control[value="maj"]:checked ~ .control[value="Fs"]:checked ~ .note-Gs:before,
+.control[value="maj"]:checked ~ .control[value="Fs"]:checked ~ .note-As:before,
+.control[value="maj"]:checked ~ .control[value="Fs"]:checked ~ .note-B:before,
+.control[value="maj"]:checked ~ .control[value="Fs"]:checked ~ .note-Cs:before,
+.control[value="maj"]:checked ~ .control[value="Fs"]:checked ~ .note-Ds:before,
+.control[value="maj"]:checked ~ .control[value="Fs"]:checked ~ .note-F:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: green;
+}
+
+.control[value="min"]:checked ~ .control[value="Fs"]:checked ~ .note-Fs:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: blue;
+}
+
+.control[value="min"]:checked ~ .control[value="Fs"]:checked ~ .note-Gs:before,
+.control[value="min"]:checked ~ .control[value="Fs"]:checked ~ .note-A:before,
+.control[value="min"]:checked ~ .control[value="Fs"]:checked ~ .note-B:before,
+.control[value="min"]:checked ~ .control[value="Fs"]:checked ~ .note-Cs:before,
+.control[value="min"]:checked ~ .control[value="Fs"]:checked ~ .note-D:before,
+.control[value="min"]:checked ~ .control[value="Fs"]:checked ~ .note-E:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: green;
+}
+
+.control[value="maj"]:checked ~ .control[value="G"]:checked ~ .note-G:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: blue;
+}
+
+.control[value="maj"]:checked ~ .control[value="G"]:checked ~ .note-A:before,
+.control[value="maj"]:checked ~ .control[value="G"]:checked ~ .note-B:before,
+.control[value="maj"]:checked ~ .control[value="G"]:checked ~ .note-C:before,
+.control[value="maj"]:checked ~ .control[value="G"]:checked ~ .note-D:before,
+.control[value="maj"]:checked ~ .control[value="G"]:checked ~ .note-E:before,
+.control[value="maj"]:checked ~ .control[value="G"]:checked ~ .note-Fs:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: green;
+}
+
+.control[value="min"]:checked ~ .control[value="G"]:checked ~ .note-G:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: blue;
+}
+
+.control[value="min"]:checked ~ .control[value="G"]:checked ~ .note-A:before,
+.control[value="min"]:checked ~ .control[value="G"]:checked ~ .note-As:before,
+.control[value="min"]:checked ~ .control[value="G"]:checked ~ .note-C:before,
+.control[value="min"]:checked ~ .control[value="G"]:checked ~ .note-D:before,
+.control[value="min"]:checked ~ .control[value="G"]:checked ~ .note-Ds:before,
+.control[value="min"]:checked ~ .control[value="G"]:checked ~ .note-F:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: green;
+}
+
+.control[value="maj"]:checked ~ .control[value="Gs"]:checked ~ .note-Gs:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: blue;
+}
+
+.control[value="maj"]:checked ~ .control[value="Gs"]:checked ~ .note-As:before,
+.control[value="maj"]:checked ~ .control[value="Gs"]:checked ~ .note-C:before,
+.control[value="maj"]:checked ~ .control[value="Gs"]:checked ~ .note-Cs:before,
+.control[value="maj"]:checked ~ .control[value="Gs"]:checked ~ .note-Ds:before,
+.control[value="maj"]:checked ~ .control[value="Gs"]:checked ~ .note-F:before,
+.control[value="maj"]:checked ~ .control[value="Gs"]:checked ~ .note-G:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: green;
+}
+
+.control[value="min"]:checked ~ .control[value="Gs"]:checked ~ .note-Gs:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: blue;
+}
+
+.control[value="min"]:checked ~ .control[value="Gs"]:checked ~ .note-As:before,
+.control[value="min"]:checked ~ .control[value="Gs"]:checked ~ .note-B:before,
+.control[value="min"]:checked ~ .control[value="Gs"]:checked ~ .note-Cs:before,
+.control[value="min"]:checked ~ .control[value="Gs"]:checked ~ .note-Ds:before,
+.control[value="min"]:checked ~ .control[value="Gs"]:checked ~ .note-E:before,
+.control[value="min"]:checked ~ .control[value="Gs"]:checked ~ .note-Fs:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  opacity: 0.5;
+  background: green;
+}
