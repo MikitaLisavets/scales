@@ -1,1 +1,1 @@
-# live: http://mikitalisavets.me/scales/
+# live: https://mikitalisavets.me/scales/
