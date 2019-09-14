@@ -1,1 +1,2 @@
-# live: https://mikitalisavets.me/scales/
+# Music scales
+live: https://mikitalisavets.me/scales/
